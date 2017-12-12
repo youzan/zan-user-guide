@@ -2,7 +2,6 @@ Worker 进程和 Taskworker
 ============================================
 
 下图是 worker 进程和 Taskworker 之间的消息交互:
-    1. 
     
 .. figure:: worker-task_worker.png
 

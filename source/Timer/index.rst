@@ -1,5 +1,5 @@
-Timer
-============
+Timer 定时器
+================
 
 .. toctree::
    :maxdepth: 2

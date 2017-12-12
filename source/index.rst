@@ -19,11 +19,9 @@ Welcome to zan-userguide's documentation!
    HttpServer/index
    HttpClient/index
    Timer/index
-   Event/index
    AsyncIO/index
    Redis/index
    MySql/index
    Buffer/index
-   Process/index
    ConnPool/index
    Framework/index

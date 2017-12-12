@@ -1,5 +1,5 @@
-Redis
-============
+swoole_redis 类
+===================
 
 .. toctree::
    :maxdepth: 2
