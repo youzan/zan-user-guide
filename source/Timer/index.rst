@@ -1,4 +1,4 @@
-Timer 定时器
+Timer
 ================
 
 .. toctree::

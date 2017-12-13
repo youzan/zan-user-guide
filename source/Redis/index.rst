@@ -1,4 +1,4 @@
-swoole_redis 类
+swoole_redis
 ===================
 
 .. toctree::

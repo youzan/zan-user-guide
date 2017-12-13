@@ -1,4 +1,4 @@
-swoole_mysql 类
+swoole_mysql
 =======================
 
 .. toctree::
