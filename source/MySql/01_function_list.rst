@@ -1,5 +1,5 @@
-swoole_mysql 类使用示例
-=========================
+swoole_mysql 客户端使用示例
+======================================
 
 1. API 接口，详见：
     http://zandoc.zanphp.io/classes/swoole_mysql.html
@@ -68,7 +68,7 @@ swoole_mysql 类使用示例
 ::
 
     <?php
-    #######演示基本的 prepare 用法
+    #############################演示基本的 prepare 用法
     $swoole_mysql = new \swoole_mysql();
 
     $swoole_mysql->on("close", function() {

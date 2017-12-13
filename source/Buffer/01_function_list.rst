@@ -10,6 +10,7 @@ swoole_buffer 使用示例
 ::
 
     <?php
+        #函数都非常简单且易理解
         $buffer = new swoole_buffer();
         assert($buffer instanceof swoole_buffer);
 
