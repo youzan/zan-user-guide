@@ -11,8 +11,6 @@ AsyncIO 异步 IO 示例
 ::
 
     <?php
-    require_once __DIR__ . "/../inc/zan.inc";
-
     function recursiveWrite($dep = 0, $size = 1024 * 1024)
     {
         static $data;

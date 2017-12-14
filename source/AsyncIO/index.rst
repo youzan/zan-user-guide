@@ -1,4 +1,4 @@
-AsyncIO 异步IO
+AsyncIO
 ===================
 
 .. toctree::
